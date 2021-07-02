@@ -1,4 +1,4 @@
-package com.github.dziioniis;
+package io.github.dziioniis;
 
 public class Arithmetic {
     public static Integer sum(Integer numberOne,Integer numberTwo){
